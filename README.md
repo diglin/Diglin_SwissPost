@@ -49,7 +49,7 @@ Proprietary
 
 ## Support & Documentation
 
-- Submit tickets - Contact (fee may apply, we will inform you how): support /at/ diglin.com
+- Submit tickets - Contact us (fee may apply, we will inform you how) on http://www.diglin.com/
 - Support is NOT free
 
 ## System requirements
